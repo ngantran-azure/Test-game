@@ -2,8 +2,17 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+body{
+  margin: 5px auto 5 auto;
+  width: 100%;
+  text-align: center;
+  font-family: Copperplate, fantasy;
+}
+
 canvas {
   display: block;
-  margin: 50px auto 50px auto;
+  margin: 10px auto 10px auto;
 
 }
+
