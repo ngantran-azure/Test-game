@@ -40,30 +40,30 @@ let thugYelled;
 
 
 function preload(){
-  badkey = loadImage('assets/666key.PNG');
-  goodkey = loadImage('assets/888 key.PNG');
-  arets = loadImage('assets/Arets.PNG');
-  bgvillage = loadImage('assets/BG village.png');
-  clownHappy = loadImage('assets/Clown happy.PNG');
-  clownScary = loadImage('assets/Clown scary.PNG');
-  clownSmile = loadImage('assets/Clown smile.PNG');
-  clownSprite = loadImage('assets/Clown sprite.GIF');
-  clownStare = loadImage('assets/Clown stare.PNG');
-  clown = loadImage('assets/Clown.PNG');
-  dialogueBox = loadImage('assets/Dialogue.PNG');
-  meat = loadImage('assets/meat.PNG');
-  stall = loadImage('assets/Food stall.PNG');
-  mainBG = loadImage('assets/Main street.PNG');
-  mcSprite = loadImage('assets/MC.GIF');
-  mission = loadImage('assets/Mission.PNG');
-  next = loadImage('assets/next.PNG');
-  restaurant = loadImage('assets/Restaurant.PNG');
-  showClown = loadImage('assets/show clown.PNG');
-  villageBG = loadImage('assets/villageBG.PNG');
-  stallBG = loadImage('assets/Stall clown.PNG');
-  storyBox = loadImage('assets/Story box.PNG');
-  thugSmirk = loadImage('assets/Thug smirk.PNG');
-  thugYelled = loadImage('assets/Thug yelled.PNG');
+  badkey = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/666key.PNG');
+  goodkey = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/888%20key.PNG');
+  arets = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Arets.PNG');
+  bgvillage = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/BG%20village.png');
+  clownHappy = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown%20happy.PNG');
+  clownScary = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown%20scary.PNG');
+  clownSmile = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown%20smile.PNG');
+  clownSprite = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown%20sprite.GIF');
+  clownStare = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown%20stare.PNG');
+  clown = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Clown.PNG');
+  dialogueBox = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Dialogue.PNG');
+  meat = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/meat.PNG');
+  stall = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Food%20stall.PNG');
+  mainBG = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Main%20street.PNG');
+  mcSprite = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/MC.GIF');
+  mission = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Mission.PNG');
+  next = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/next.png');
+  restaurant = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Restaurant.PNG');
+  showClown = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/show%20clown.png');
+  villageBG = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/villageBG.png');
+  stallBG = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Stall%20clown.PNG');
+  storyBox = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Story%20box.PNG');
+  thugSmirk = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Thug%20smirk.PNG');
+  thugYelled = loadImage('https://raw.githubusercontent.com/ngantran-azure/Test-game/main/assets/Thug%20yelled.PNG');
 }
 
 
