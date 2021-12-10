@@ -4,7 +4,7 @@
 let state = 'title';
 // let state = 'decision-2';
 let cnv;
-let box;
+// let box;
 let w = 600;
 let h= 600;
 let x = 0; 
@@ -72,15 +72,9 @@ function preload(){
 function setup() {
   cnv = createCanvas(w, h);
 
-  box= 
-  
   textFont('Courier New');
   textAlign(CENTER);
 
-  // button3 = createButton('Stand up for Clown');
-  // button3.mousePressed(standUp);
-  // button4 = createButton('Ignore the situation');
-  // button4.mousePressed(ignore);
 }
 
 function draw() {
@@ -97,9 +91,6 @@ function draw() {
   
 
   switch(state){
-
-    case '1':
-      break;
 
     case 'title':
       image(bgvillage, 0, 0, w, h);
