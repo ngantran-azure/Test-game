@@ -1,8 +1,8 @@
 // 'use strict';
 
 //value
-// let state = 'title';
-let state = 'decision-2';
+let state = 'title';
+// let state = 'decision-2';
 let cnv;
 let box;
 let w = 600;
